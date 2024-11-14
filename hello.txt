@@ -1,3 +1,4 @@
 Hello again, Git!
 This is a new line
 This is line number three
+This is line number four
